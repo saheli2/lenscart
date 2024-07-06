@@ -1,2 +1,2 @@
 # lenscart
-Try to make a lenscart clone
+Try to make a lenscart clone.
