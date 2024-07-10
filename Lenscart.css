@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#ariticle{
+    position: fixed;
+}
+.fnav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.fnav  input{
+width: 400px;
+height: 40px;
+border-radius: 3px;
+text-align: center;
+border: 2px solid gray;
+margin-top: 10px;
+
+}
+.fnav p{
+    margin-top: 17px;
+    font-size: 17px;
+}
+.snav{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+padding: 14px;
+background-color: rgba(99, 91, 91, 0.158);
+
+}
+.snav p:hover{
+    border-bottom: 2px solid rgba(128, 0, 128, 0.596);
+    color:rgba(128, 0, 128, 0.596 );
+    cursor: pointer;
+}
+.submenueyeglass{
+    display: block;
+    position: absolute;
+    background: rgb(0, 100, 0);
+}
+
+#second>img{
+    width:3%;
+    height: 30px;
+}
+.lens{
+    display: flex;
+    background-color: rgba(37, 2, 2, 0.358);
+   text-align: center;
+   
+
+}
+.lens img{
+    width: 60%;
+    border-radius: 6px;
+   padding-left: 35px;
+   
+
+}
+
+.main img{
+    padding-top: 229px;
+    width: 100%;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 11px;
+}
+.cart .card{
+    text-align: center;
+}
+.card button{
+    height: 40px;
+    width: 60px;
+    color: white;
+    background-color: rgb(0, 187, 255);
+    border-radius: 2px;
+    border: none;
+    font-size: 10px;font-weight: 600px;
+}
+.card p{
+    font-size: 16px;
+}
+.banner h2{
+    text-align: center;
+    padding: 35px;
+}
+.banner .img img{
+    width: 100%;
+}
+
+.cart .card img{
+    width:75%;
+
+}
+
+.footer{
+    background-color:black;
+    color: aliceblue;
+    height: 250px;
+    width: 100%;
+    display: flex;
+    margin-left: 50px;
+}
+
+
+
